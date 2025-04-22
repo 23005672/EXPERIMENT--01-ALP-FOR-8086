@@ -1,7 +1,7 @@
-# EXPERIMENT--01-ALP-FOR-8086
-Name : RIYA P L
-Roll no : 212223240141
-Date of experiment : 11.03.2025
+# EXPERIMENT 01 ALP FOR 8086
+### Name : RIYA P L
+### Roll no : 212223240141
+### Date of experiment : 11.03.2025
 
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
